@@ -1,1 +1,1 @@
-Link: https://heroesapps.netlify.app/login
+Link: https://heroesapps.netlify.app/
